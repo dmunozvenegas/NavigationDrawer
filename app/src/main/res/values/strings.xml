@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">App Diego Muñoz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="action_listar">Listar</string>
+    <string name="action_eliminar">Eliminar</string>
+    <string name="action_abierto">Menu Abierto</string>
+    <string name="action_cerrado">Menu Cerrado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
